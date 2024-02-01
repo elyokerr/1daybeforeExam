@@ -10,5 +10,8 @@ public class Catepillar {
 		 this.cabagges=cabagges;
 	
 	 }
+	 int get_moves() {
+		 return moves;
+	 }
 
 }
